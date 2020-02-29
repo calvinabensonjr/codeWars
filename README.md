@@ -3,6 +3,4 @@
 
 ![codewars image](images/codePhoto.png)
 ## Tech used
-- HTML
-- CSS
 - Javascript
