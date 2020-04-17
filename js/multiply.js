@@ -1,4 +1,4 @@
-//References:  Google; mdn, w3schools. Youtube.
+multiply.
 
 function multiply(a, b){
   let a = 2;
