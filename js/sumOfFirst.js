@@ -9,3 +9,4 @@ for (let i = 0; i < n; i++){
 
 return sum.toFixed(2);
 }
+ 
